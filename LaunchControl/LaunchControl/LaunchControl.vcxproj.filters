@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxBaseMidi.cpp">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidi.cpp">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiIn.cpp">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiMessage.cpp">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiOut.cpp">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\desktop\ofxRtMidiIn.cpp">
+      <Filter>addons\ofxMidi-master\src\desktop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\desktop\ofxRtMidiOut.cpp">
+      <Filter>addons\ofxMidi-master\src\desktop</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\rtmidi\RtMidi.cpp">
+      <Filter>addons\ofxMidi-master\libs\rtmidi</Filter>
+    </ClCompile>
+    <ClCompile Include="src\drawSpectrum.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fft.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\threadDraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{e306a900-8fb3-4a2c-b1e2-0051d9fa7393}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master">
+      <UniqueIdentifier>{779968a0-62bd-45ff-8db4-7c94ef06ed4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\src">
+      <UniqueIdentifier>{98b979a6-3384-49a3-8acf-1e4844edca85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\src\desktop">
+      <UniqueIdentifier>{77fd4a6b-438a-4ddc-ac11-61c32dd4973e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\src\ios">
+      <UniqueIdentifier>{5d1cd6f3-1769-4fa4-afd9-93a7203e1cd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\libs">
+      <UniqueIdentifier>{b25209c9-56a1-40e3-852a-161523916efa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\libs\pgmidi">
+      <UniqueIdentifier>{8d24466a-8677-498b-897b-b3ec85368308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMidi-master\libs\rtmidi">
+      <UniqueIdentifier>{1a0c3401-59cd-4705-b523-3e89aa444c71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxBaseMidi.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidi.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiConstants.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiIn.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiMessage.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiOut.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ofxMidiTypes.h">
+      <Filter>addons\ofxMidi-master\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\desktop\ofxRtMidiIn.h">
+      <Filter>addons\ofxMidi-master\src\desktop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\desktop\ofxRtMidiOut.h">
+      <Filter>addons\ofxMidi-master\src\desktop</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ios\ofxPGMidiContext.h">
+      <Filter>addons\ofxMidi-master\src\ios</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ios\ofxPGMidiDelegate.h">
+      <Filter>addons\ofxMidi-master\src\ios</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ios\ofxPGMidiIn.h">
+      <Filter>addons\ofxMidi-master\src\ios</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ios\ofxPGMidiOut.h">
+      <Filter>addons\ofxMidi-master\src\ios</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\src\ios\ofxPGMidiSourceDelegate.h">
+      <Filter>addons\ofxMidi-master\src\ios</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\pgmidi\iOSVersionDetection.h">
+      <Filter>addons\ofxMidi-master\libs\pgmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\pgmidi\PGArc.h">
+      <Filter>addons\ofxMidi-master\libs\pgmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\pgmidi\PGMidi.h">
+      <Filter>addons\ofxMidi-master\libs\pgmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\pgmidi\PGMidiAllSources.h">
+      <Filter>addons\ofxMidi-master\libs\pgmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\pgmidi\PGMidiFind.h">
+      <Filter>addons\ofxMidi-master\libs\pgmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Bureau\of_v0.9.0_vs_release\addons\ofxMidi-master\libs\rtmidi\RtMidi.h">
+      <Filter>addons\ofxMidi-master\libs\rtmidi</Filter>
+    </ClInclude>
+    <ClInclude Include="src\drawSpectrum.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\fft.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\threadDraw.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
